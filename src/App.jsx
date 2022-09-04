@@ -25,7 +25,7 @@ const USERS = [
 
 const App = () => (
 	<UsersList users={USERS}>
-		<h1>Lista de Pacientes</h1>
+		<h1>Lista de Usuarios</h1>
 	</UsersList>
 );
 
