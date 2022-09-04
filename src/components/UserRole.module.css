@@ -1,0 +1,22 @@
+.role{
+	text-transform: uppercase;
+	font-size: .75rem;
+	padding: 0.25rem 0.5rem;
+	border-radius: .5rem;
+}
+
+.teacher{
+	
+	background-color: #61DAFB;
+}
+.student{
+	
+	background-color: lightgreen;
+}
+.other{
+	
+	background-color: lightgray;
+}
+.medico{
+	background-color: blue;
+}
