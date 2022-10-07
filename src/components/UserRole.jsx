@@ -4,7 +4,7 @@ const ROLE_STYLES = {
 	teacher: ['Profesor', style.teacher],
 	student: ['Estudiante', style.student],
 	medico: ['Médico', style.medico],
-	tecnico: ['Tecnico', style.tecnico],
+	laboratorio: ['Laboratorio', style.laboratorio],
 	other: ['Otros', style.other]
 };
 const UserRole = ({ role }) => {	
